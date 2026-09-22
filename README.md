@@ -128,6 +128,19 @@ The Excel dashboard brings together the major findings from the analysis, includ
 - Food inflation movements
 - COVID-19 period analysis
 The dashboard provides a consolidated view of the analysis for easier interpretation of the major trends.
+## Dashboard Preview
+
+### 1. CPI Inflation Dashboard
+
+![CPI Inflation Dashboard](images/dashboard_overview.png)
+
+### 2. Food Inflation Analysis
+
+![Food Inflation Analysis](images/food_inflation_analysis.png)
+
+### 3. COVID-19 Impact Analysis
+
+![COVID-19 Impact Analysis](images/covid_impact_analysis.png)
 
 ---
 
