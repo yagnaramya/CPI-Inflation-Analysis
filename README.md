@@ -132,11 +132,11 @@ The dashboard provides a consolidated view of the analysis for easier interpreta
 
 ### 1. CPI Inflation Dashboard
 
-![CPI Inflation Dashboard](images/dashboard_overview.png)
+![CPI Inflation Dashboard](images/dashboard_overview.png.png)
 
 ### 2. Food Inflation Analysis
 
-![Food Inflation Analysis](images/food_inflation_analysis.png)
+![Food Inflation Analysis](images/food_inflation_analysis.png.png)
 
 ### 3. COVID-19 Impact Analysis
 
